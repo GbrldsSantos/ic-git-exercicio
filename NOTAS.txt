@@ -1,0 +1,3 @@
+funcionalidades básicas de git e GitHub e a terminologia
+repositórios
+como mover ficheiros entre repositórios e fazer alterações
